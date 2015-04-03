@@ -1,2 +1,2 @@
 # Hydraga
-SurugaDevil and Theobromine
+Suruga Devil and Theobromine
