@@ -1,4 +1,12 @@
 # This is the program that we are currently testing
-my_input = 5 # setting input
-x = my_input + 1 # math here
-print x # print result
+#my_input = 5 # setting input
+#x = my_input + 1 # math here
+#print x # print result
+
+print("Welcome to Hydraga")
+
+import urllib.request
+
+url = urllib.request.urlopen('https://www.github.com/htll')
+
+print(url.read())
