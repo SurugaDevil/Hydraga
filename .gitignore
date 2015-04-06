@@ -2,3 +2,4 @@ $ cat .gitignore
 
 # Can ignore specific files
 .DS_Store
+.idea
