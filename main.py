@@ -34,4 +34,5 @@ t = re.search(p, result)
 result = t.group(1)
 result2 = t.group(2)
 
+# print result
 print("The last time this repository was edited was: %s %s" % (result, result2))
